@@ -1,7 +1,7 @@
 # About Us 👋
-### Heroes 2023, a part of Gadjah Mada Robotic Team.
-### 🙋‍ We are a sub team dedicated to participate in ABU Robocon.
-### 🍿 We used to be called S.P.Y. (Sing Penting Yakin).
+- Heroes 2023, a part of Gadjah Mada Robotic Team.
+- 🙋‍ We are a sub team dedicated to participate in ABU Robocon.
+- 🍿 We used to be called S.P.Y. (Sing Penting Yakin).
 
 # Our team members 🧙
 ### Supervisor
