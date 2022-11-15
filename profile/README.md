@@ -5,13 +5,13 @@
 
 # Our team members 🧙
 ### Supervisor
-#### Hasan Chamdany - [@hasanchamdany](https://github.com/hasanchamdany)
+- Hasan Chamdany - [@hasanchamdany](https://github.com/hasanchamdany)
 
 ### Programmers
-#### Giga Hidjrika Aura Adkhy - [@infinicus](https://github.com/Infinicus)
-#### Felicia Siswanto - [@sleepyhydra12](https://github.com/sleepyhydra12)
-#### M. Nabil Akbar - [@mnabilam](https://github.com/mnabilam)
-#### Timothy Cleytus Gultom - [@timothygultom](https://github.com/timothygultom)
+- Giga Hidjrika Aura Adkhy - [@infinicus](https://github.com/Infinicus)
+- Felicia Siswanto - [@sleepyhydra12](https://github.com/sleepyhydra12)
+- M. Nabil Akbar - [@mnabilam](https://github.com/mnabilam)
+- Timothy Cleytus Gultom - [@timothygultom](https://github.com/timothygultom)
 <!--
 
 **Here are some ideas to get you started:**
