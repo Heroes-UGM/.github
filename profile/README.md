@@ -16,8 +16,6 @@
 - Timothy Cleytus Gultom - [@timothygultom](https://github.com/timothygultom)
 
 
-![Giga's github stats](https://github-readme-stats.vercel.app/api?username=infinicus&orgs=heroes-ugm)
-
 <!--
 **Here are some ideas to get you started:**
 
