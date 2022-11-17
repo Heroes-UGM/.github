@@ -15,6 +15,9 @@
 - M. Nabil Akbar - [@mnabilam](https://github.com/mnabilam)
 - Timothy Cleytus Gultom - [@timothygultom](https://github.com/timothygultom)
 - Veronika Juninda - [@verojnnd](https://github.com/verojnnd)
+- Michael Ismail Febrian - [michaelifebrian](https://github.com/michaelifebrian)
+- Najwa Aisyah Sabira - [najwaaisyah1](https://github.com/najwaaisyah1)
+- Nibroos Aurore Majiid Haryanto - [nibroosauro](https://github.com/nibroosauro)
 
 
 <!--
