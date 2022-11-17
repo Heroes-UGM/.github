@@ -14,6 +14,7 @@
 - Felicia Siswanto - [@sleepyhydra12](https://github.com/sleepyhydra12)
 - M. Nabil Akbar - [@mnabilam](https://github.com/mnabilam)
 - Timothy Cleytus Gultom - [@timothygultom](https://github.com/timothygultom)
+- Veronika Juninda - [@verojnnd](https://github.com/verojnnd)
 
 
 <!--
