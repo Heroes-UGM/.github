@@ -5,6 +5,11 @@
 - 🙋‍ We are a sub team dedicated to participate in ABU Robocon.
 - 🍿 We used to be called S.P.Y. (Sing Penting Yakin).
 
+---
+
+# Advisor
+### Adha Imam Cahyadi - Department of Electrical Engineering and Information Technology
+
 # Our team members 🧙
 ### Supervisor
 - Hasan Chamdany - [@hasanchamdany](https://github.com/hasanchamdany)
