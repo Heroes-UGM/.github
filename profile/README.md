@@ -7,8 +7,9 @@
 
 ---
 
-# Advisor
-### Adha Imam Cahyadi - Department of Electrical Engineering and Information Technology
+# Advisors
+- Adha Imam Cahyadi - Department of Electrical Engineering and Information Technology
+- Lukman - Department of Computer Science and Electronics
 
 # Our team members 🧙
 ### Supervisor
