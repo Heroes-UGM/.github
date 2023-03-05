@@ -18,7 +18,7 @@
 ### Programmers
 - Giga Hidjrika Aura Adkhy - [@gigahidjrikaaa](https://github.com/gigahidjrikaaa)
 - Felicia Siswanto - [@sleepyhydra12](https://github.com/sleepyhydra12)
-- M. Nabil Akbar - [@mnabilam13](https://github.com/mnabilam13)
+- Muhammad Nabil Akbar Mustafa - [@mnabilam13](https://github.com/mnabilam13)
 - Timothy Cleytus Gultom - [@timothygultom](https://github.com/timothygultom)
 - Veronika Juninda - [@verojnnd](https://github.com/verojnnd)
 - Michael Ismail Febrian - [michaelifebrian](https://github.com/michaelifebrian)
