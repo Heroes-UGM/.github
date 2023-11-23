@@ -12,18 +12,15 @@
 - Lukman Awwaludin - Department of Computer Science and Electronics
 
 # Our team members 🧙
-### Supervisor
-- Hasan Chamdany - [@hasanchamdany](https://github.com/hasanchamdany)
 
 ### Programmers
-- Giga Hidjrika Aura Adkhy - [@gigahidjrikaaa](https://github.com/gigahidjrikaaa)
-- Felicia Siswanto - [@sleepyhydra12](https://github.com/sleepyhydra12)
-- Muhammad Nabil Akbar Mustafa - [@mnabilam13](https://github.com/mnabilam13)
-- Timothy Cleytus Gultom - [@timothygultom](https://github.com/timothygultom)
-- Veronika Juninda - [@verojnnd](https://github.com/verojnnd)
 - Michael Ismail Febrian - [michaelifebrian](https://github.com/michaelifebrian)
 - Najwa Aisyah Sabira - [najwaaisyah1](https://github.com/najwaaisyah1)
 - Nibroos Aurore Majiid Haryanto - [nibroosauro](https://github.com/nibroosauro)
+- Brahmantio Farhan Rabbani - [brahmantiofar30](https://github.com/brahmantiofar30)
+- I Putu Buddhi Gunawan - [putubuddhi](https://github.com/putubuddhi)
+- Gabriel Syailendra Fernandez - [gferz](https://github.com/gferz)
+- Lafendra Amalia - [lafendraaa](https://github.com/lafendraaa)
 
 
 <!--
