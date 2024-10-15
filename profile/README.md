@@ -1,7 +1,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=heroes-ugm.readme&left_color=green&right_color=red)
 
 # About Us 👋
-- 🌈 Heroes 2023, a part of Gadjah Mada Robotic Team.
+- 🌈 Heroes 2025, a part of Gadjah Mada Robotic Team.
 - 🙋‍ We are a sub team dedicated to participate in ABU Robocon.
 - 🍿 We used to be called S.P.Y. (Sing Penting Yakin).
 
