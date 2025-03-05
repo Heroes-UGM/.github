@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=heroes-ugm.readme&left_color=green&right_color=red)
+![](https://api.visitorbadge.io/api/VisitorHit?user=Heroes-UGM&repo=profile&countColor=%23FFD700)
 
 # About Us 👋
 - 🌈 Heroes 2025, a part of Gadjah Mada Robotic Team.
