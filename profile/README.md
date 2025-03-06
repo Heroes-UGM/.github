@@ -14,13 +14,11 @@
 # Our team members 🧙
 
 ### Programmers
-- Michael Ismail Febrian - [michaelifebrian](https://github.com/michaelifebrian)
-- Najwa Aisyah Sabira - [najwaaisyah1](https://github.com/najwaaisyah1)
-- Nibroos Aurore Majiid Haryanto - [nibroosauro](https://github.com/nibroosauro)
-- Brahmantio Farhan Rabbani - [brahmantiofar30](https://github.com/brahmantiofar30)
-- I Putu Buddhi Gunawan - [putubuddhi](https://github.com/putubuddhi)
-- Gabriel Syailendra Fernandez - [gferz](https://github.com/gferz)
 - Lafendra Amalia - [lafendraaa](https://github.com/lafendraaa)
+- Thoriq Putra Belligan - [thoriqpb](https://github.com/thoriqpb)
+- Indah Nurrohmah - [indahnurrohmah](https://github.com/indahnurrohmah)
+- Sendi Seniora - [ndoyy](https://github.com/ndoyy)
+- Delviano Khayru Attahira - [mat-te123](https://github.com/mat-te123)
 
 
 <!--
